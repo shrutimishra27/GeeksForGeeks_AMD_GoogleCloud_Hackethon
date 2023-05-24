@@ -1,4 +1,4 @@
-# GeeksForGeeks_AMD_GoogleCLoud_Hackethon
+# GeeksForGeeks_AMD_GoogleCloud_Hackethon
 
 ## Solving for India - Pandit Deendayal Energy University
 ### Powered By Google Cloud & AMD
